@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+pg_data/
+metabase_data/
+pentaho/.pentaho/
+.env
+.vscode/
+.idea/
